@@ -6,6 +6,7 @@ Learning NumPy
 2. create a virtual environment
 3. install from requirements.txt
 
+## git clone https://github.com/TA-ashrafi/NUMPY.git
 - cd numpy-yt
 - python -m venv venv
 - source venv/bin/activate
